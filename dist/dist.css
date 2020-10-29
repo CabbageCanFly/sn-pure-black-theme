@@ -1,23 +1,24 @@
 :root {
   --sn-stylekit-neutral-color: #6A696F;
   --sn-stylekit-neutral-contrast-color: #FAFBFF;
-  --sn-stylekit-info-color: #0C84FE;
+  --sn-stylekit-info-color: #00665c;
+  --sn-stylekit-info-text-color: #00b3a1;
   --sn-stylekit-info-contrast-color: #FAFBFF;
   --sn-stylekit-success-color: #59A800;
   --sn-stylekit-success-contrast-color: #FAFBFF;
   --sn-stylekit-warning-color: #FF6303;
   --sn-stylekit-warning-contrast-color: #FAFBFF;
-  --sn-stylekit-danger-color: #FF0320;
+  --sn-stylekit-danger-color: #a90013;
   --sn-stylekit-danger-contrast-color: #FAFBFF;
   --sn-stylekit-shadow-color: #121212;
-  --sn-stylekit-background-color: #000000;
+  --sn-stylekit-background-color: #181a1b;
   --sn-stylekit-border-color: #2A2A2B;
   --sn-stylekit-foreground-color: #FAFBFF;
-  --sn-stylekit-contrast-background-color: #121212;
-  --sn-stylekit-contrast-foreground-color: #FAFBFF;
+  --sn-stylekit-contrast-background-color: #1d2125;
+  --sn-stylekit-contrast-foreground-color: #d6d6d6;
   --sn-stylekit-contrast-border-color: #2A2A2B;
-  --sn-stylekit-secondary-background-color: #121212;
-  --sn-stylekit-secondary-foreground-color: #FAFBFF;
+  --sn-stylekit-secondary-background-color: #1d2125;
+  --sn-stylekit-secondary-foreground-color: #d6d6d6;
   --sn-stylekit-secondary-border-color: #2A2A2B;
   --sn-stylekit-secondary-contrast-background-color: #323234;
   --sn-stylekit-secondary-contrast-foreground-color: #FAFBFF;
@@ -31,4 +32,13 @@
   --sn-stylekit-scrollbar-track-border-color: #8A8A8A;
 }
 
-/*# sourceMappingURL=dist.css.map */
+.sn-component .sk-app-bar .sk-app-bar-item:hover > .sk-label:not(.subtle),
+.sn-component .sk-app-bar .sk-panel-section .sk-app-bar-item:hover > .sk-panel-section-subtitle:not(.subtle),
+.sn-component .sk-panel-section .sk-app-bar .sk-app-bar-item:hover > .sk-panel-section-subtitle:not(.subtle),
+.sn-component .sk-app-bar .sk-app-bar-item:hover > .sk-sublabel:not(.subtle),
+.sn-component .sk-app-bar .sk-app-bar-item:hover > .sk-app-bar-item-column > .sk-label:not(.subtle),
+.sn-component .sk-app-bar .sk-panel-section .sk-app-bar-item:hover > .sk-app-bar-item-column > .sk-panel-section-subtitle:not(.subtle),
+.sn-component .sk-panel-section .sk-app-bar .sk-app-bar-item:hover > .sk-app-bar-item-column > .sk-panel-section-subtitle:not(.subtle),
+.sn-component .sk-app-bar .sk-app-bar-item:hover > .sk-app-bar-item-column > .sk-sublabel:not(.subtle) {
+    color: var(--sn-stylekit-info-text-color);
+}
