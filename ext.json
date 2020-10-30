@@ -9,8 +9,8 @@ metatype: json
   "area": "themes",
   "version": "1.0.0",
   "description": "Dark theme for Standard Notes.",
-  "url": "https://raw.githubusercontent.com/CabbageCanFly/sn-dark-theme/master/dist/dist.css",
-  "download_url": "",
-  "latest_url": "https://raw.githubusercontent.com/CabbageCanFly/sn-dark-theme/test-json-release/ext.json",
+  "url": "https://cabbagecanfly.com/sn-dark-theme/dist/dist.css",
+  "download_url": "https://cabbagecanfly.com/sn-dark-theme/sn-dark-theme.zip",
+  "latest_url": "https://cabbagecanfly.com/sn-dark-theme/etx.json",
   "marketing_url": "https://github.com/cabbagecanfly/sn-dark-theme"
 }
