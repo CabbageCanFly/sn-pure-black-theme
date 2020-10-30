@@ -7,6 +7,7 @@ Format: `major.minor.patch`
 ### Updates/Changes
 
 - Flattened colours a bit; revised text selection colour
+- Darkened scrollbar
 
 ## 1.0.0 (October 29, 2020)
 

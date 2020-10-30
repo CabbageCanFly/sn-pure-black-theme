@@ -10,6 +10,12 @@ On the Desktop app or web-version, open "Extensions" in Standard Notes and click
 https://cabbagecanfly.com/sn-dark-theme/ext.json
 ```
 
-<!-- ## Preview -->
+## Preview
 
-<!-- <img src="https://raw.githubusercontent.com/christianhans/sn-pure-black-theme/master/preview1.png" width="300px">  <img src="https://raw.githubusercontent.com/christianhans/sn-pure-black-theme/master/preview2.png" width="300px"> -->
+### Windows
+
+<img src="screenshots/windows.png">
+
+### Android
+
+<img src="screenshots/android-list.png" width="300px">  <img src="screenshots/android-body.png" width="300px">

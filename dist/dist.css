@@ -40,9 +40,18 @@
 .sn-component .sk-app-bar .sk-panel-section .sk-app-bar-item:hover > .sk-app-bar-item-column > .sk-panel-section-subtitle:not(.subtle),
 .sn-component .sk-panel-section .sk-app-bar .sk-app-bar-item:hover > .sk-app-bar-item-column > .sk-panel-section-subtitle:not(.subtle),
 .sn-component .sk-app-bar .sk-app-bar-item:hover > .sk-app-bar-item-column > .sk-sublabel:not(.subtle) {
-    color: var(--sn-stylekit-info-text-color);
+  color: var(--sn-stylekit-info-text-color);
 }
 
 #editor-title-bar > .title > .input::selection, input::selection, textarea::selection, *::selection {
-    background-color: rgba(249, 38, 114, 0.5) !important;
+  background-color: rgba(249, 38, 114, 0.5) !important;
+}
+
+::-webkit-scrollbar,
+::-webkit-scrollbar-track {
+  background: #242629;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #3C3E45;
 }
