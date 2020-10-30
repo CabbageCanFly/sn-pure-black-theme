@@ -1,10 +1,10 @@
-# Pure Black Theme for Standard Notes
+# Dark Theme for Standard Notes
 
-Theme for [Standard Notes](https://standardnotes.org/). Optimized for OLED devices such as iPhone X.
+Theme for [Standard Notes](https://standardnotes.org/).
 
 ## Installation
 
-Open "Extensions" in Standard Notes and click "Import Extension". Enter the following URL as Extension Link and press Enter:
+On the Desktop app or web-version, open "Extensions" in Standard Notes and click "Import Extension". Enter the following URL as Extension Link and press Enter:
 
 ```
 https://listed.to/G4qnpftLNJ
