@@ -42,3 +42,7 @@
 .sn-component .sk-app-bar .sk-app-bar-item:hover > .sk-app-bar-item-column > .sk-sublabel:not(.subtle) {
     color: var(--sn-stylekit-info-text-color);
 }
+
+#editor-title-bar > .title > .input::selection, input::selection, textarea::selection, *::selection {
+    background-color: rgba(249, 38, 114, 0.5) !important;
+}
