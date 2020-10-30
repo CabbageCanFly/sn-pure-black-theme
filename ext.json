@@ -11,6 +11,6 @@ metatype: json
   "description": "Dark theme for Standard Notes.",
   "url": "https://cabbagecanfly.com/sn-dark-theme/dist/dist.css",
   "download_url": "https://cabbagecanfly.com/sn-dark-theme/sn-dark-theme.zip",
-  "latest_url": "https://cabbagecanfly.com/sn-dark-theme/etx.json",
+  "latest_url": "https://cabbagecanfly.com/sn-dark-theme/ext.json",
   "marketing_url": "https://github.com/cabbagecanfly/sn-dark-theme"
 }
