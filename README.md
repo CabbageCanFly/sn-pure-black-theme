@@ -14,8 +14,8 @@ https://cabbagecanfly.com/sn-dark-theme/ext.json
 
 ### Windows
 
-<img src="screenshots/windows.png">
+<img style="border: 1px solid #222;" src="screenshots/windows.png">
 
 ### Android
 
-<img src="screenshots/android-list.png" width="300px">  <img src="screenshots/android-body.png" width="300px">
+<img style="border: 1px solid #222;" src="screenshots/android-list.png" width="300px">  <img style="border: 1px solid #222;" src="screenshots/android-body.png" width="300px">
