@@ -16,6 +16,10 @@ https://cabbagecanfly.com/sn-dark-theme/ext.json
 
 <img style="border: 1px solid #222;" src="screenshots/windows.png">
 
+### macOS
+
+<img src="screenshots/macOS.png">
+
 ### Android
 
 <img style="border: 1px solid #222;" src="screenshots/android-list.png" width="300px">  <img style="border: 1px solid #222;" src="screenshots/android-body.png" width="300px">
