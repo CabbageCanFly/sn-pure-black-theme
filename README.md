@@ -23,3 +23,9 @@ https://cabbagecanfly.com/sn-dark-theme/ext.json
 ### Android
 
 <img style="border: 1px solid #222;" src="screenshots/android-list.png" width="300px">  <img style="border: 1px solid #222;" src="screenshots/android-body.png" width="300px">
+
+## Credits
+
+Forked from [christianhans/sn-pure-black-theme](https://github.com/christianhans/sn-pure-black-theme).
+
+Revised by [@CabbageCanFly](https://github.com/CabbageCanFly).
