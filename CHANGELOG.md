@@ -2,6 +2,12 @@
 
 Format: `major.minor.patch`
 
+## 1.0.2 (February 5, 2022)
+
+### Updates/Changes
+
+- Update theme with forked repo for updated Standard Notes design
+
 ## 1.0.1 (October 30, 2020)
 
 ### Updates/Changes
