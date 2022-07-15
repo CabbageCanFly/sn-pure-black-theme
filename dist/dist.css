@@ -65,3 +65,7 @@ body {
 .sn-component.challenge-modal-overlay circle {
   fill: #333;
 }
+
+.challenge-modal-overlay::before {
+  background: none;
+}

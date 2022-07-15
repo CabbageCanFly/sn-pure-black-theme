@@ -2,6 +2,12 @@
 
 Format: `major.minor.patch`
 
+## 1.0.4 (July 15, 2022)
+
+### Updates/Changes
+
+- Remove background of challenge modal overlay
+
 ## 1.0.3 (July 15, 2022)
 
 ### Updates/Changes
