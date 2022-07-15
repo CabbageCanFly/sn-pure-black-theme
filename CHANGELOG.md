@@ -2,6 +2,12 @@
 
 Format: `major.minor.patch`
 
+## 1.0.5 (July 15, 2022)
+
+### Updates/Changes
+
+- Minor colour changes of challenge modal
+
 ## 1.0.4 (July 15, 2022)
 
 ### Updates/Changes

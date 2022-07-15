@@ -12,6 +12,8 @@ https://cabbagecanfly.com/sn-dark-theme/ext.json
 
 ## Preview
 
+*Last updated screenshots in 30 October 2020. The colours used are unchanged.*
+
 ### Windows
 
 <img style="border: 1px solid #222;" src="screenshots/windows.png">
