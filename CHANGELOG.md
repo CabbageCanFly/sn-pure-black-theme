@@ -2,6 +2,12 @@
 
 Format: `major.minor.patch`
 
+## 1.0.3 (July 15, 2022)
+
+### Updates/Changes
+
+- Update theme for minor changes in Standard Notes app UI
+
 ## 1.0.2 (February 5, 2022)
 
 ### Updates/Changes
